@@ -2,6 +2,10 @@
 
 > Spin up a full Ollama stack on Google Colab, backed by cloud GPUs, and talk to any supported open-source LLM through a clean Gradio interface.
 
+<a target="_blank" href="https://colab.research.google.com/github/theelderemo/ollama-google-colab/blob/main/ollamacolab.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ---
 
 ## Overview
@@ -42,7 +46,10 @@ This repository contains a Jupyter Notebook that:
 
 ### 1. Set the Runtime
 
-1. Open the notebook in Google Colab.
+1. Open the notebook in Google Colab. <a target="_blank" href="https://colab.research.google.com/github/theelderemo/ollama-google-colab/blob/main/ollamacolab.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 2. Go to **Runtime → Change runtime type**.
 3. Set the **hardware accelerator** to:
    - **T4 GPU** (free tier), or  
